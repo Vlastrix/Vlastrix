@@ -6,8 +6,6 @@ I'm Vladislav Bochkov, a passionate developer with a love for solving problems a
 
 🌱 I’m currently learning Angular ![LostJohnTravoltaGIF](https://github.com/user-attachments/assets/8f4b8911-c75c-44b9-80dd-e928ed28091f).
 
-👯 I’m looking to collaborate on projects related to health tech, machine learning, and open-source contributions.
-
 🤔 I’m looking for help with expanding the functionalities of VitalmagNet, particularly in improving user experience.
 
 💬 Ask me about Python, Javascript, Java, web development, Odoo and Arduino projects.
