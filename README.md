@@ -4,7 +4,7 @@ I'm Vladislav Bochkov, a passionate developer with a love for solving problems a
 
 🔭 I’m currently working on VitalmagNet, a revolutionary platform that integrates technology with holistic therapy. It’s designed to empower therapists and users by offering advanced features like virtual consulting rooms, therapy reports automation, and a 3D interactive model for locating biomagnetic pairs.
 
-🌱 I’m currently learning Angular ![LostJohnTravoltaGIF](https://github.com/user-attachments/assets/8f4b8911-c75c-44b9-80dd-e928ed28091f).
+🌱 I’m currently learning Angular.
 
 🤔 I’m looking for help with expanding the functionalities of VitalmagNet, particularly in improving user experience.
 
